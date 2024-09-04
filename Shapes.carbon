@@ -1,6 +1,8 @@
 // carbon-packages.git
 // A bunch of shapes and computations for those shapes
 
+// (C) Copyright 2024 Ben Daws.
+
 package Shapes api;
 import Math;
 
